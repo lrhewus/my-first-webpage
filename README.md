@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This is my very first web page I coded using HTML and CSS} _
+_This is my very first web page I coded using HTML and CSS_
 
 ## Setup/Installation Requirements
 
@@ -24,8 +24,8 @@ _{This is my very first web page I coded using HTML and CSS} _
 
 ## License
 
-_{If you run into any issues, close your browser and never re-open this again}_
+_If you run into any issues, close your browser and never re-open this again_
 
 ## Contact Information
 
-_{You can find me under the Burnside bridge between 4-9pm}_
+_You can find me under the Burnside bridge between 4-9pm_
